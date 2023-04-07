@@ -12,6 +12,9 @@ Initial Security()
 feature1()
 {
 //feature1 code
+Security patch()
+{
+//security patch code
 }
 
 
